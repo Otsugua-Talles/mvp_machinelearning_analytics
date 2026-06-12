@@ -4,4 +4,8 @@
 
 **Matrícula:** 4052025002304
 
+**Disciplina:** Ciência de Dados & Analytics
+
+**Instituição de ensino:** PUC-RIO
+
 **Data:** 10/06/2026
